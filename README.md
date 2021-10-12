@@ -1,3 +1,3 @@
 # AR_Transaction-App
-Accounts Receivable mini application that uses python's TKinter and SQLite3 to track and visualize inputed inventories.
+Accounts Receivable mini application that uses python's TKinter and SQLite3 to track and visualize inputed inventories from user.
 Unfinished project
